@@ -1,7 +1,15 @@
 {
-  "version": 1,
-  "updatedAt": "2025-09-28T10:00:00Z",
-  "notes": [],
+  "version": 2,
+  "updatedAt": "2025-09-28T10:05:00Z",
+  "notes": [
+    {
+      "id": "acid-base-shortcuts",
+      "title": "กรด-เบส: สูตรลัด",
+      "tags": ["กรด-เบส","A-Level"],
+      "free": true,
+      "path": "notes/acid-base-shortcuts/"
+    }
+  ],
   "olympiad": [],
   "facts": [],
   "home": { "gamesConfig": "home/games.json" }
